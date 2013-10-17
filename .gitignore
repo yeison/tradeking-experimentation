@@ -1,2 +1,4 @@
 .idea/
 target/
+src/main/java/tradeking/TradeKingClient.java
+src/main/java/tradeking/Streaming.java
